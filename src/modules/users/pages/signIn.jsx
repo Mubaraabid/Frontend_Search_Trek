@@ -84,6 +84,7 @@
     }
     </style>
     </head>
+    
     <body>
     <div class="login-form">
         <form action="/examples/actions/confirmation.php" method="post" class="form-horizontal">
